@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-changed the div to a nav 
+/*changed the div to a nav*/ 
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +31,11 @@ changed the div to a nav
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-changed to nav
+/*changed to nav*/
 .header nav ul {
     list-style-type: none;
 }
-changed div to nav
+/*changed div to nav*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
